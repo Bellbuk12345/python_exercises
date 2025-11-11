@@ -27,3 +27,4 @@ for user_number in range(5):
 print(f"The total sum of all the numbers entered is {total_number}")
 print(f"The maximum number is:", max(added_number))
 print(f"The minimum nmber is:", min(added_number))
+

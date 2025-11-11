@@ -1,5 +1,4 @@
 
-
 # Program: BMI Calculator
 # File Name: bmi_calculation.py
 
@@ -68,3 +67,4 @@ def calculate_bmi():
 
 # Run function and display returned values
 calculate_bmi()
+

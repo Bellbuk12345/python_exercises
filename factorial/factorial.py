@@ -26,3 +26,4 @@ def factorial_number(number):
 print(f"Factorial of 3 = {factorial_number(3)}")   # Expected: 6
 print(f"Factorial of 4 = {factorial_number(4)}")   # Expected: 24
 print(f"Factorial of 5 = {factorial_number(5)}")   # Expected: 120
+
